@@ -1,0 +1,34 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.rs.jhispter.upload"
+        },
+        "jhipsterVersion": "5.8.1",
+        "applicationType": "monolith",
+        "baseName": "fileUpload",
+        "packageName": "com.rs.jhispter.upload",
+        "packageFolder": "com/rs/jhispter/upload",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "no",
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Memory",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "YjYxM2E2Yjg0OGFjZjJhY2FkMzY1MTY5ODE0Y2I4ZTk3YjdlNDcyMjU5OGFhMmI1ZGE0MGE2M2QwYTY1ZDA0NTk2MGY2NDI0ZDgxYTFmOGFjYWRkYzRjZjNlNDNmN2VmYTAyZThmNzY4NzM0N2M2ZGFmOWE0ZTkyODg4YzMwNTY=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
