@@ -1,0 +1,31 @@
+{
+    "name": "Group",
+    "fields": [
+        {
+            "fieldName": "groupName",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "groupCode",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "groupOwner",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "groupCategoryId",
+            "fieldType": "String"
+        }
+    ],
+    "relationships": [],
+    "changelogDate": "20190219141131",
+    "entityTableName": "group",
+    "dto": "mapstruct",
+    "pagination": "no",
+    "service": "serviceClass",
+    "jpaMetamodelFiltering": false,
+    "fluentMethods": true,
+    "clientRootFolder": "",
+    "applications": "*"
+}

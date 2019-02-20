@@ -1,0 +1,15 @@
+entity Group{
+	groupName String,
+    groupCode String,
+    groupOwner String,
+    groupCategoryId String
+}
+
+// Use Data Transfer Objects (DTO)
+dto * with mapstruct
+
+// Set service options to all except few
+service all with serviceClass
+
+// Set an angular suffix
+// angularSuffix * with mySuffix
